@@ -1,5 +1,5 @@
 <?php
-namespace MageMastery\Todo\Controller\Index
+namespace MageMastery\Todo\Controller\Index;
 
 use Magento\Framework\App\Action\Action;
 
